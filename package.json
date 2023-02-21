@@ -1,0 +1,23 @@
+{
+  "name": "express-gateway-plugin-advanced-jwt",
+  "version": "1.0.0",
+  "description": "Verification middleware for print node webhooks",
+  "main": "manifest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deliverynative/express-gateway-plugin-advanced-jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deliverynative/express-gateway-plugin-advanced-jwt/issues"
+  },
+  "homepage": "https://github.com/deliverynative/express-gateway-plugin-advanced-jwt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  }
+}
